@@ -1,6 +1,6 @@
 [
   {
-    "package" : "prismaid", // 
+    "package" : "prismaid", 
     "url" : "https://github.com/open-and-sustainable/prismaid",
     "branch" : "71-r-package-does-not-compile-for-macos-and-windows"
   }
